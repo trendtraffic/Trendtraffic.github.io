@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
 
 
 
@@ -23,15 +24,15 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'FontsFree-Net-arial-bold';
-  font-size: 1.5rem;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.1rem;
   line-height: 1.5;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 1.76rem;
 }
 .display-5 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'FontsFree-Net-arial-bold';
   font-size: 1.8rem;
   line-height: 1.5;
 }
@@ -68,9 +69,9 @@ body {
     line-height: calc( 1.3 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.88rem;
+    font-size: calc( 1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 1.44rem;
@@ -634,13 +635,13 @@ a:hover {
   border-radius: 100px;
 }
 .form-control {
-  font-family: 'FontsFree-Net-arial-bold';
-  font-size: 1.5rem;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
 }
 .form-control > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 1.76rem;
 }
 .form-control:hover,
 .form-control:focus {
@@ -648,13 +649,13 @@ a:hover {
   border-color: #ee3e31 !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'FontsFree-Net-arial-bold';
-  font-size: 1.5rem;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
 }
 .form-control:-webkit-input-placeholder > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 1.76rem;
 }
 blockquote {
   border-color: #ee3e31;
@@ -1096,7 +1097,7 @@ a {
   text-align: left;
 }
 .cid-si85IMsorL {
-  padding-top: 6rem;
+  padding-top: 4rem;
   padding-bottom: 3rem;
   background-color: #ffffff;
 }
@@ -1113,7 +1114,7 @@ a {
 }
 .cid-si85IcCEYR {
   padding-top: 4rem;
-  padding-bottom: 6rem;
+  padding-bottom: 3rem;
   background-color: #ffffff;
 }
 @media (max-width: 991px) {
