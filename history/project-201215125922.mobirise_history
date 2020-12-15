@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Trendtraffic",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -635,7 +635,7 @@
     },
     "page1.html": {
       "settings": {
-        "title": "Influencer Registeration | Trendtraffic",
+        "title": "Influence Registeration | Trendtraffic",
         "order": 4,
         "meta_descr": "Trendtraffic give you the most relevant Influencers according to your brand values, brand image, and geolocation. Our campaigns are tailored just to your needs such that they reach the maximum of your target audience and have the best possible impression among the viewers. Influencer marketing is the fastest-growing consumer acquisition method, and we provide you with the best technology and service giving you an edge above your competition."
       },
