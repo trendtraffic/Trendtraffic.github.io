@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Trendtraffic",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -83,7 +83,9 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-YFSJM81TPK\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-YFSJM81TPK');\n</script>\n<script type=\"text/javascript\">\n    (function(c,l,a,r,i,t,y){\n        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};\n        t=l.createElement(r);t.async=1;t.src=\"https://www.clarity.ms/tag/\"+i;\n        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);\n    })(window, document, \"clarity\", \"script\", \"4feklxav32\");\n</script>"
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-YFSJM81TPK\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-YFSJM81TPK');\n</script>\n<script type=\"text/javascript\">\n    (function(c,l,a,r,i,t,y){\n        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};\n        t=l.createElement(r);t.async=1;t.src=\"https://www.clarity.ms/tag/\"+i;\n        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);\n    })(window, document, \"clarity\", \"script\", \"4feklxav32\");\n</script>",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -635,7 +637,7 @@
     },
     "page1.html": {
       "settings": {
-        "title": "Influencer Registration | Trendtraffic",
+        "title": "Influencer Registeration | Trendtraffic",
         "order": 4,
         "meta_descr": "Trendtraffic give you the most relevant Influencers according to your brand values, brand image, and geolocation. Our campaigns are tailored just to your needs such that they reach the maximum of your target audience and have the best possible impression among the viewers. Influencer marketing is the fastest-growing consumer acquisition method, and we provide you with the best technology and service giving you an edge above your competition."
       },
@@ -1120,7 +1122,7 @@
     },
     "page2.html": {
       "settings": {
-        "title": "Brand Registration | Trendtraffic",
+        "title": "Brand Registeration | Trendtraffic",
         "order": 3,
         "meta_descr": "Trendtraffic give you the most relevant Influencers according to your brand values, brand image, and geolocation. Our campaigns are tailored just to your needs such that they reach the maximum of your target audience and have the best possible impression among the viewers. Influencer marketing is the fastest-growing consumer acquisition method, and we provide you with the best technology and service giving you an edge above your competition."
       },
