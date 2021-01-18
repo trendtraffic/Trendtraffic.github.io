@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Trendtraffic",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -83,12 +83,12 @@
     "versionPublish": "5.0.16",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/trendtrafficasset-5.svg",
-    "robotsSwitcher": true,
-    "sitemapSwitcher": true,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "https://trendtraffic.co.in/",
+    "siteUrl": false,
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-YFSJM81TPK\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-YFSJM81TPK');\n</script>\n<script type=\"text/javascript\">\n    (function(c,l,a,r,i,t,y){\n        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};\n        t=l.createElement(r);t.async=1;t.src=\"https://www.clarity.ms/tag/\"+i;\n        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);\n    })(window, document, \"clarity\", \"script\", \"4feklxav32\");\n</script>",
-    "robotsText": "User-agent: *\nAllow: /\n",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "cookiesAlert": false,
     "gdpr": false
   },
